@@ -1,4 +1,4 @@
-$ latino-Ace
+# latino-Ace
 
 **Modo de resaltado de sintaxis para el lenguaje Latino en Ace Editor.**
 
@@ -99,9 +99,4 @@ escribir (resp)
 
 ---
 
-## Licencia
-
-
-
----
 
